@@ -1,0 +1,9 @@
+login dayjavid
+
+breakfast
+teatree shake
+
+ash visit_url("place.php?whichplace=chateau&action=chateau_desk2")
+
+quit
+exit
