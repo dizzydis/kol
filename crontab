@@ -1,1 +1,1 @@
-0 8 * * *  java -jar -Djava.awt.headless=true KoLmafia-26863.jar --CLI dayly_deeds.txt
+0 8 * * *  cd ~/kolmafia && java -jar -Djava.awt.headless=true KoLmafia-26863.jar --CLI dayly_deeds.txt
